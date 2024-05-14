@@ -50,3 +50,15 @@ button{
     border-color: aqua;
     margin-top: 12px;
 }
+
+#nome-error,
+#email-error,
+#telefone-error,
+#cpf-error,
+#endereço-error,
+#cep-error{
+    font-weight: normal;
+    background-color: rgba(235, 14, 14, 0.3);
+    padding: 8px;
+    margin-top: 12px;
+}
